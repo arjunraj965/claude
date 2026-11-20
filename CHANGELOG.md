@@ -6,6 +6,12 @@
 
 (nothing yet)
 
+## 4.2.2
+
+_Automated release: version and notes generated from pull requests merged since 4.2.1._
+
+- Initial commit
+
 ## 4.2.1
 
 _Automated release: version and notes generated from pull requests merged since 4.2.0._
